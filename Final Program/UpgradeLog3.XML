@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sample">
+</Property><Property Name="Solution File" Value="Z:\CS553\SampleW\Sample.sln">
+</Property><Property Name="User Options File" Value="Z:\CS553\SampleW\Sample.suo">
+</Property><Property Name="Date" Value="Wednesday, January 05, 2011">
+</Property><Property Name="Time" Value="8:49 AM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="Sample.sln" Description="Error creating backup file: Z:\CS553\SampleW\Sample.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="Sample.suo" Description="Error creating backup file: Z:\CS553\SampleW\Sample.suo.old">
+</Event><Event ErrorLevel="0" Project="Sample" Source="Sample.vcproj" Description="Converting project file 'Z:\CS553\SampleW\Sample.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Sample" Source="Sample.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Sample" Source="Sample.vcproj" Description="MSB8012: $(TargetPath) ('Z:\CS553\SampleW\.\Debug\Sample.exe') does not match the Linker's OutputFile property value '.\Debug/Sample.exe' ('Z:\CS553\SampleW\Debug/Sample.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Sample" Source="Sample.vcproj" Description="MSB8012: $(TargetPath) ('Z:\CS553\SampleW\.\Release\Sample.exe') does not match the Linker's OutputFile property value '.\Release/Sample.exe' ('Z:\CS553\SampleW\Release/Sample.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Sample" Source="Sample.vcproj" Description="Done converting to new project file 'Z:\CS553\SampleW\Sample.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Sample" Source="Sample.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sample.sln" Description="Converted">
+</Event></UpgradeLog>
